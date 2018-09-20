@@ -7,7 +7,7 @@
 
     <title>Essay Project</title>
 
-    <meta name="author" content="Abdifatah omar">
+    <meta name="author" content="Abdifatah Omar">
     <meta name="description" content=""> <!-- Webpage Description -->
     <meta name="keywords" content=""> <!-- key words for searching -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
