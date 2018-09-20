@@ -39,9 +39,13 @@
     </section>
 
   </body>
-
+      <blockquote cite=""> https://www.brainyquote.com/
+      <! Date Accessed:  20180920>
+      <p></em></p>
   <footer>
-    <p>&copy Mark Mercer, powered by Abdifatah ibrahim in GitHub</p>
-  </footer>
 
+    <p>&copy Mark Mercer, powered by abdifatah Ibrahim in GitHub</p>
+  </footer>
+  "Getting information off the Internet is like taking a drink from a fire hydrant".
+  Read more at: https://www.brainyquote.com/quotes/mitchell_kapor_163583
 </html>
