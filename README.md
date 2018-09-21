@@ -46,6 +46,7 @@
 
     <p>&copy Mark Mercer, powered by abdifatah Ibrahim in GitHub</p>
   </footer>
-  "Getting information off the Internet is like taking a drink from a fire hydrant".
+  "Getting information off the Internet is like taking a drink from a fire hydrant"<P><strong>
+  <P> Mitchell Kapor
   Read more at: https://www.brainyquote.com/quotes/mitchell_kapor_163583
 </html>
